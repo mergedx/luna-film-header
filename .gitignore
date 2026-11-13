@@ -1,0 +1,6 @@
+# The local preview film: Vimeo plays the film online
+media/film/*.mp4
+
+# macOS and Python leftovers
+.DS_Store
+__pycache__/

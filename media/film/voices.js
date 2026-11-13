@@ -1,0 +1,3 @@
+// Who speaks when in the Luna UGC film (v22), from the film's timeline. Luna is drawn in the accent,
+// everyone else in ink. The names shown for each speaker are in config.js under `speakers`.
+window.LUNA_FILM_VOICES = [{s:0.15,e:15.03,who:"owner"},{s:15.73,e:19.73,who:"luna"},{s:19.87,e:22.43,who:"mark"},{s:22.57,e:26.30,who:"luna"},{s:26.43,e:26.98,who:"mark"},{s:27.12,e:33.29,who:"luna"},{s:33.43,e:35.99,who:"mark"},{s:36.13,e:40.36,who:"luna"},{s:40.50,e:41.06,who:"mark"},{s:41.20,e:47.04,who:"luna"},{s:48.16,e:59.41,who:"owner"},{s:59.16,e:69.43,who:"luna"},{s:70.08,e:77.03,who:"owner"},{s:77.53,e:79.87,who:"mike"},{s:80.01,e:82.48,who:"luna"},{s:82.62,e:85.65,who:"mike"},{s:85.79,e:89.47,who:"luna"},{s:90.23,e:100.97,who:"owner"}];
