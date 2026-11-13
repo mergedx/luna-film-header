@@ -10,7 +10,7 @@
      and run tools/make-chapter-assets.sh for new thumbnails and a new voice line.
 */
 window.LUNA_FILM_CONFIG = {
-  vimeo: "",
+  vimeo: "https://vimeo.com/1246509633",
   preview: "media/film/luna-ugc-109s-4k.mp4",
   aspect: "9:16", // until the player reports the film's real shape
 
